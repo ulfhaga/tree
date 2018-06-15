@@ -1,3 +1,6 @@
 http://localhost:18180/tree/tree
 
 https://www.tutorialspoint.com/servlets/servlets-first-example.htm
+
+ Setting the context root of a web application
+https://docs.jboss.org/jbossas/guides/webguide/r2/en/html/ch06.html
